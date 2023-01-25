@@ -16,6 +16,7 @@ Discord Nuke Bot V3 By [ TheAxes ] Give Credit if You Use else: 🖕
 12. -[x] Spamroles
 13. -[x] RenameServer
 14. -[x] adminall
+15. -[x] 24/7
 
 ## Extra
 1. -[x] Help
