@@ -1,5 +1,5 @@
 # Discord-Nuke-Bot-V3
-Discord Nuke Bot V3 By [ TheAxes ] Give Credit Of You Use else: 🖕
+Discord Nuke Bot V3 By [ TheAxes ] Give Credit if You Use else: 🖕
 
 # Features 🔥
 1. -[x] Nuke
@@ -42,4 +42,5 @@ python main.py
 
 ## Credits -:
  youtube - https://youtube.com/@theaxes
+
  GitHub - https://GitHub.com/TheAxes
