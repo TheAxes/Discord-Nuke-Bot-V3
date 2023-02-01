@@ -41,6 +41,9 @@ Validate config.json and put token in env
 python main.py
 ```
 
+YouTube Vedio -:
+[![Youtube](https://cdn.discordapp.com/attachments/1055733614534471730/1070351462489673788/Thumbnail.jpg)](https://youtu.be/-TjVCjxIMiw)
+
 ## Credits -:
  youtube - https://youtube.com/@theaxes
 
