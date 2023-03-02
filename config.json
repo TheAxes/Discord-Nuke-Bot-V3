@@ -1,8 +1,8 @@
 {
  "prefix" : "$",
- "channel_names" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "roles_name" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "webhooknames" : ["Fucked By TheAxes", "Siezed By TheAxes"],
- "spam_text" : ["@everyone Axes Are Cool", "@everyone Axes Runs Cord", "@everyone Axes On Top", "@everyone Axes On Fire"],
- "reason" : "Seized By TheAxes"
+ "channel_names" : ["ABHI OP", "ABHI OP", "ABHI On Top", "ABHI On Fire"],
+ "roles_name" : ["ABHI OP", "ABHI OP", "ABHI On Top", "ABHI On Fire"],
+ "webhooknames" : ["Fucked By ABHI", "Siezed By ABHI"],
+ "spam_text" : ["@everyone ABHI OP", "@everyone ABHI OP", "@everyone ABHI On Top", "@everyone ABHI On Fire"],
+ "reason" : "Seized By ABHI"
  } 
